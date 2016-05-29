@@ -58,7 +58,8 @@ module.exports = yeoman.Base.extend({
       "webSite/Step001.csproj",
       "webSite/tsd.json",
       "webSite/Web.config",
-      "webSite/Properties/AssemblyInfo.cs"
+      "webSite/Properties/AssemblyInfo.cs",
+      "webSite/controllers/IndexController.cs"
     ]
 
        
