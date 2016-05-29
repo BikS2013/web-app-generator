@@ -1,0 +1,24 @@
+{
+  "name": "<%= appName %>",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Giorgos Marinos <biks@nbg.gr>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.5",
+    "jquery": "^2.2.3",
+    "underscore": "^1.8.3",
+    "node-uuid": "^1.4.7"
+  }
+}
