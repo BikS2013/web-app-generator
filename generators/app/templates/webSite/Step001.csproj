@@ -49,8 +49,8 @@
       <HintPath>..\packages\bUtility.0.0.0.5\lib\net45\bUtility.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="bUtility.WebApi, Version=0.0.0.4, Culture=neutral, PublicKeyToken=e2a60ca179fe72cb, processorArchitecture=MSIL">
-      <HintPath>..\packages\bUtility.WebApi.0.0.0.4\lib\net45\bUtility.WebApi.dll</HintPath>
+    <Reference Include="bUtility.WebApi, Version=0.0.0.5, Culture=neutral, PublicKeyToken=e2a60ca179fe72cb, processorArchitecture=MSIL">
+      <HintPath>..\packages\bUtility.WebApi.0.0.0.5\lib\net45\bUtility.WebApi.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
